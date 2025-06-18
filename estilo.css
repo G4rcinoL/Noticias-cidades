@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: #fff url(../imagens/fundo.png) repeat-x;
+    background: #fff url(imagens/fundo.png) repeat-x;
 }
 
 #container {
@@ -15,14 +15,14 @@ body {
 
 #cabecalho {
     height: 150px;
-    background: url(../imagens/detalhe-topo.png) no-repeat right top;
+    background: url(imagens/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
 }
 
 .logo {
     width: 152px;
     height: 66px;
-    background: url(../imagens/logo.png) no-repeat center;
+    background: url(imagens/logo.png) no-repeat center;
     text-indent: -3000px; /* Esconde o texto */
 }
 
@@ -85,7 +85,7 @@ ul {
     color: #fff;
     text-decoration: none;
     line-height: 2.1em;
-    background: url(../imagens/divisor.png) no-repeat left center;
+    background: url(imagens/divisor.png) no-repeat left center;
 }
 
 #cabecalho ul .primeiro a {
@@ -109,7 +109,7 @@ body.home #navegacao a#home {
 }
 
 .caixa{
-    background: #f3f3f3 url(../imagens/fundo-caixa.png);
+    background: #f3f3f3 url(imagens/fundo-caixa.png);
     margin: 10px 0;
     padding: 5px
 }
@@ -139,13 +139,13 @@ h2 {
 
 #lateral ul a:hover {
     color: #a1a1a1;
-    background: #f9f9f9 url(../imagens/marcador.png)no-repeat left center;
+    background: #f9f9f9 url(imagens/marcador.png)no-repeat left center;
     padding-left: 20px;
 }
 
 #felipe-silva #lateral ul li a:hover {
     color: #a1a1a1;
-    background: #f9f9f9 url(../imagens/marcador.png)no-repeat left center;
+    background: #f9f9f9 url(imagens/marcador.png)no-repeat left center;
     padding-left: 20px;
 }
 
